@@ -1,0 +1,12 @@
+customer_id,first_name,last_name,age,phone,address,email,account_num,password,account_type,iban_num 
+1,yuanshuo,du,28,45234526,tu dublin,123456@gmail.com,37984815,559559,SavingsAccount|CheckingAccount,IE144261410148787665399
+2,Steven,Jobs,45,911911,apple building,stevenjobs@gmail.com,58652026,559559,SavingsAccount|CheckingAccount,IE543129267973809409308
+3,jara,steven,19,12345678,collins road,1341324@gmail.com,86995988,559559,SavingsAccount|CheckingAccount,IE367730232353725471538
+4,daisy,bi,18,31932819,666road,djsfalldsf@gmail.com,77245737,559559,SavingsAccount,IE799284309522457557410
+5,daisy,bi,18,452452345,666 road,dfajsdfalj@gmail.com,11836554,559559,SavingsAccount,IE942324661038707201311
+6,hokin,shten,19,123453,sdfal,asdfansd,71729279,559559,SavingsAccount,IE682293098530437063399
+7,duyuans,shuo,18,1234567,collins,duyuanshuo@sdfj,62599590,559559,SavingsAccount,IE305127764064633291220
+8,lijuan,bai,18,34234234,collons,sdjfalsdfn,23013865,559559,CheckingAccount,IE819948762646452266687
+9,duyuanshuo,gg,18,23423,collion,duyuanshuo,12285926,559559,CheckingAccount,IE455138583769455664445
+10,gg,aa,19,23423,dfadsf,sadfasd,67739568,559559,CheckingAccount,IE859309906785569680396
+11,adsadsfj,uksdf,35,236457456,fadf,asdcxvd,51898455,559559,CheckingAccount,IE726954525320620488016

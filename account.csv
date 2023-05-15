@@ -1,0 +1,6 @@
+Customer ID,First Name,Last Name,Account Number,Password,Account Type,Balance,Checking Account Number,Checking Balance,Credit Limit,Saving Account Number,Saving Balance,IBAN Number
+6,sdfads,adsf,23423434,559559,SavingAccount,700.03,C71729279,700,500,S71729279,300,
+7,adsfa,adsf,23423423,559559,CheckingAccount,835.01,C62599590,835,500,S62599590,100,
+9,duyuanshuo,gg,12285926,559559,CheckingAccount,10.03,C12285926,10,500,[],30,IE455138583769455664445
+10,gg,aa,67739568,559559,CheckingAccount,68.05,C67739568,68,500,[],50,IE859309906785569680396
+11,adsadsfj,uksdf,51898455,559559,CheckingAccount,72,C51898455,72,500,[],0,IE726954525320620488016

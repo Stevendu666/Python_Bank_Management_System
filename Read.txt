@@ -1,0 +1,11 @@
+open main.py
+
+Pay attention to the balance
+
+first create an account
+
+try to use checking accounts
+
+
+
+fails directory is a small piece of code for a bank system management system that demonstrates value passing between classes and methods.  But failed, it exist bugs
